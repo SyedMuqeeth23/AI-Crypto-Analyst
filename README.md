@@ -132,8 +132,8 @@ streamlit run app.py
 ## 📸 App Preview
 
 <p align="center">
-  <img src="Dashboard.png" width="45%"/>
-  <img src="Pic.png" width="45%"/>
+  <img src="Pic.png" width="50%"/>
+  <img src="Dashboard.png" width="50%"/>
 </p>
 
 ---
