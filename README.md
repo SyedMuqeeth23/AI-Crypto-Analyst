@@ -133,9 +133,11 @@ streamlit run app.py
 
 ## 📸 App Preview
 
-![Dashboard](Dashboard.png)
-![Chat](Chat.png)
-![Extra](Pic.png)
+<p align="center">
+  <img src="Dashboard.png" width="45%"/>
+  <img src="Chat.png" width="45%"/>
+</p>
+
 
 ---
 
