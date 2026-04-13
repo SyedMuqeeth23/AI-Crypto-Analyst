@@ -129,12 +129,6 @@ streamlit run app.py
 
 ---
 
-## 📸 Screenshots
-
-
-
----
-
 ## 🚀 Future Improvements
 
 * 📈 Advanced charts (TradingView style)
