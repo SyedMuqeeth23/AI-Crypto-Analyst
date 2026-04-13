@@ -2,6 +2,12 @@
 
 > AI-powered crypto dashboard that delivers real-time market insights, trend analysis, and intelligent predictions through an interactive Streamlit interface.
 
+## 🚀 Live Demo
+
+👉 **Try the App Here:**
+
+🔗 https://ai-crypto-analyst-muqeethomer.streamlit.app/
+
 ---
 
 ## 🔗 Live Repository
@@ -169,11 +175,6 @@ Fork → Branch → Commit → Push → PR
 If you like this project:
 
 ⭐ Star this repo
-🚀 Share with others
-💬 Give feedback
 
 ---
 
-> Built with ❤️ using AI + Streamlit
-
-[1]: https://voiceofchain.com/academy/ai-trading-bot-crypto-github?utm_source=chatgpt.com "AI trading bot crypto github guide for traders and builders — VoiceOfChain Academy"
