@@ -129,6 +129,14 @@ streamlit run app.py
 
 ---
 
+📸 Screenshots
+
+<p align="center">
+  <img src="screenshots/dashboard.png" width="800"/>
+</p>
+
+---
+
 ## 🚀 Future Improvements
 
 * 📈 Advanced charts (TradingView style)
