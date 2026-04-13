@@ -131,9 +131,11 @@ streamlit run app.py
 
 📸 Screenshots
 
-<p align="center">
-  <img src="dashboard.png" width="800"/>
-</p>
+## 📸 App Preview
+
+![Dashboard](Dashboard.png)
+![Chat](Chat.png)
+![Extra](Pic.png)
 
 ---
 
